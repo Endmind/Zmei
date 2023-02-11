@@ -12,4 +12,5 @@
 
 
 Установить Scratch: https://scratch.mit.edu/download
+Установить Zmei: https://t.me/+ksaRVMRgpoMzM2Yy
 ![image](https://user-images.githubusercontent.com/111449574/218248632-1170ff21-9607-41e4-8fa1-456382affc11.png)
